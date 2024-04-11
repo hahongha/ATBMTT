@@ -1,0 +1,5 @@
+a) Khoa cong khai cua An (PU) = {67, 2021}
+b) Khoa rieng cua An (PR) = {1, 2021}
+c) Thong diep sau khi ma hoa (C) = 1896
+d) Ban ma C sau khi giai ma (M) = 1896
+e) Ma hoa tai cau c) thuc hien nhiem vu bao mat.
